@@ -54,7 +54,7 @@ It is designed to:
 
 ## 🚀 Live Demo
 
-👉 https://yourusername.github.io/your-repo-name/](https://vidivici98.github.io/accessibility-demo/)
+👉 https://vidivici98.github.io/accessibility-demo/
 
 ---
 
